@@ -1,0 +1,27 @@
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.exe
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.deps.json
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.runtimeconfig.json
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.runtimeconfig.dev.json
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.dll
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.pdb
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.csprojAssemblyReference.cache
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.AssemblyInfoInputs.cache
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.AssemblyInfo.cs
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.csproj.CoreCompileInputs.cache
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.dll
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.pdb
+D:\Atolye\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.genruntimeconfig.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.exe
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.deps.json
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.runtimeconfig.json
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.runtimeconfig.dev.json
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.dll
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\bin\Debug\netcoreapp3.1\sıcaklıkCevirme.pdb
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.csproj.AssemblyReference.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.AssemblyInfoInputs.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.AssemblyInfo.cs
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.csproj.CoreCompileInputs.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.dll
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.pdb
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\sıcaklıkCevirme\sıcaklıkCevirme\obj\Debug\netcoreapp3.1\sıcaklıkCevirme.genruntimeconfig.cache
